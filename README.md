@@ -2,7 +2,7 @@
 
 Testing backbone.js for basic CRUD functions. Added also sorting and drag and drop.
 
-Todo:
+## Todo:
 
 Sorting or drag and drop doesn't work correctly when combined to updating fields. 
 
